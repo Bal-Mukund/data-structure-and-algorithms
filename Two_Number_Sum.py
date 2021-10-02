@@ -1,3 +1,5 @@
+# Two Number Sum
+
 def twoNumberSum(array, targetSum):
     for i in range(len(array)):
         firstNum = array[i]
