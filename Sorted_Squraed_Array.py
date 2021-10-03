@@ -4,6 +4,8 @@
 
 
 
+#   O(nlogn)  Time | O(n) Space Complexity 
+
 
 def sortedSquaredArray(array):
     sqd = []
