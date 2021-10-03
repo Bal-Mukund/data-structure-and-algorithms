@@ -5,9 +5,6 @@ If no two numbers sum up to the target sum, the function should return an empty 
 
 
 
-
-
-
 def twoNumberSum(array, targetSum):
     for i in range(len(array)):
         firstNum = array[i]
