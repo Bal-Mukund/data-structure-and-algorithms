@@ -4,6 +4,7 @@
                     also sorted in ascending order. """
 
 
+#  O(n)  Time | O(n) Space complexity 
 
 array = [1]
 
